@@ -198,4 +198,3 @@ ul.cta-containter{display:block;position:fixed;z-index:50;width:40px;bottom:18px
 .allow-copy {user-select: text; /* Memungkinkan seleksi teks */}
 .kolomaina{background-color:#ffffff00;font-size:14px;color: #aedce9;border: 1px #dedede double; height: 10px; overflow: auto; padding: 10px; text-align: center; width: auto;"}
 .kolomaina .widget{}
-
