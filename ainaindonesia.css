@@ -488,3 +488,24 @@ blockquote:after{content:'\f10e';display:inline-block;font-family:FontAwesome;fo
 .kolomaina22.widget{}
 .kolomainamulyana{background-color:#ffffff00;font-size:14px;color: #aedce9;border: 1px #dedede double; height: 10px; overflow: auto; padding: 10px; text-align: center; width: auto;"}
 .kolomainamulyana.widget{}
+body#layout #outer-wrapper{padding:0;width:1020px}
+body#layout #content-wrapper,body#layout .row{width:1020px}
+body#layout .section h4{margin:2px 0 8px;color:#333!important}
+body#layout #topnav,body#layout .tm-head{height:auto}
+body#layout #social-top{width:auto;display:block;float:none}
+body#layout .search-area{display:none}
+body#layout .FollowByEmail .widget-content:before{display:none}
+body#layout .header-content, body#layout #header-blog{height:auto;padding:0;display:block;float:left;width:100%}
+body#layout .header-logo{display:block;float:none;max-height:none;margin:0;padding:0}
+body#layout #menu .widget{display:block}
+body#layout #menu{height:auto}
+body#layout #content-wrapper{margin:0 auto}
+body#layout #main-wrapper{float:left;width:70%;margin:0;padding:0}
+body#layout .custom-title{display:none}
+body#layout #sidebar-wrapper{float:right;width:30%;margin:0;padding:0}
+body#layout #footer-wrapper{overflow:hidden}
+body#layout #blocked-widgets,body#layout #pop-sec,body#layout #contact{display:none!important}
+body#layout #main-wrapper #main{margin-right:4px}
+body#layout .layout-widget-description{display:none!important}
+body#layout #sidebar{margin-top:10px}
+body#layout .widget-content .editlink{color:#fff!important;border:1px solid #233648;border-radius:2px;padding:0 5px;background-color:#233648}
